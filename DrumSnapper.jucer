@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="GsSvkS" name="Drum Snapper" projectType="audioplug" useAppConfig="1"
+<JUCERPROJECT id="GsSvkS" name="DrumSnapper" projectType="audioplug" useAppConfig="1"
               addUsingNamespaceToJuceHeader="1" displaySplashScreen="1" jucerFormatVersion="1"
               pluginFormats="buildAU,buildAUv3,buildVST3" companyName="Low Wave Studios"
               companyWebsite="www.lowwavestudios.com" companyEmail="lowwavestudios@gmail.com"
-              pluginName="Drum Snapper" pluginVST3Category="Distortion,Dynamics,EQ"
+              pluginName="DrumSnapper" pluginVST3Category="Distortion,Dynamics,EQ"
               cppLanguageStandard="latest" version="1.1.0">
-  <MAINGROUP id="QoKCTo" name="Drum Snapper">
+  <MAINGROUP id="QoKCTo" name="DrumSnapper">
     <GROUP id="{0F31071D-8664-25BE-9358-BB3ECFFE9A56}" name="Source">
       <FILE id="tdUuDI" name="UbuntuFont.cpp" compile="1" resource="0" file="Source/UbuntuFont.cpp"/>
       <FILE id="s8TTVJ" name="UbuntuFont.h" compile="0" resource="0" file="Source/UbuntuFont.h"/>
