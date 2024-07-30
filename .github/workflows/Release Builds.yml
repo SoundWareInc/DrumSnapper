@@ -135,7 +135,7 @@ jobs:
           product_path: Builds/${{env.PLUGIN_NAME}}\ Mac\ Installer_signed.pkg
           apple_id: ${{ secrets.APPSTORE_USERNAME }}
           password: ${{ secrets.APPSTORE_PASSWORD }}
-          team_id: ${{ secrets.TEAM_ID }}
+          team_id: '97HU8F9WC6'
           xcode_path: '/Applications/Xcode.app'
           
     - name: Build Installer (Windows)
