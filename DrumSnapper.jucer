@@ -2,8 +2,8 @@
 
 <JUCERPROJECT id="GsSvkS" name="DrumSnapper" projectType="audioplug" useAppConfig="1"
               addUsingNamespaceToJuceHeader="1" displaySplashScreen="1" jucerFormatVersion="1"
-              pluginFormats="buildAU,buildStandalone,buildVST,buildVST3" companyName="Low Wave Studios"
-              companyWebsite="www.lowwavestudios.com" companyEmail="lowwavestudios@gmail.com"
+              pluginFormats="buildAU,buildStandalone,buildVST,buildVST3" companyName="SoundWare, Inc."
+              companyWebsite="soundware.io" companyEmail="support@soundware.io"
               pluginName="DrumSnapper" pluginVST3Category="Distortion,Dynamics,EQ"
               cppLanguageStandard="latest" version="1.1.0" aaxIdentifier="io.soundware.DrumSnapper"
               bundleIdentifier="io.soundware.DrumSnapper">
