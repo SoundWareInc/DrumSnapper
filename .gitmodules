@@ -1,3 +1,6 @@
 [submodule "lib/JUCE"]
 	path = lib/JUCE
 	url = https://github.com/juce-framework/JUCE.git
+[submodule "lib/vst2_sdk"]
+	path = lib/vst2_sdk
+	url = git@github.com:SoundWareInc/vst2_sdk.git
